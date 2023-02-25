@@ -1,0 +1,1 @@
+-wto "20d01fe14f6f4a63a58e22855fd108d7" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Emma_2_tb_behav" "xil_defaultlib.Emma_2_tb" -log "elaborate.log" 

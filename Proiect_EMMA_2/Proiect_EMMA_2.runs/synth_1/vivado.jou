@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Sat Jan 07 23:36:34 2023
+# Process ID: 9608
+# Current directory: D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.runs/synth_1
+# Command line: vivado.exe -log Emma_2.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Emma_2.tcl
+# Log file: D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.runs/synth_1/Emma_2.vds
+# Journal file: D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Emma_2.tcl -notrace

@@ -1,0 +1,13 @@
+0.6
+2016.4
+Jan 23 2017
+19:37:30
+D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sim_1/new/Emma_2_tb.vhd,1673423336,vhdl,,,,emma_2_tb,,,,,,,,
+D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/ALU.vhd,1673460819,vhdl,D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/Emma_2.vhd,,,alu,,,,,,,,
+D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/Data_memory.vhd,1673422686,vhdl,D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/Emma_2.vhd,,,data_memory,,,,,,,,
+D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/Emma_2.vhd,1673470521,vhdl,D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sim_1/new/Emma_2_tb.vhd,,,emma_2,,,,,,,,
+D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/Instruction_memory.vhd,1673461034,vhdl,D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/Emma_2.vhd,,,instruction_memory,,,,,,,,
+D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/MPC.vhd,1673460929,vhdl,D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/Emma_2.vhd,,,mpc,,,,,,,,
+D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/Microcode_Unit.vhd,1673459766,vhdl,D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/Emma_2.vhd,,,microcode_unit,,,,,,,,
+D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/PC.vhd,1673459239,vhdl,D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/Emma_2.vhd,,,pc,,,,,,,,
+D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/Registers.vhd,1673122732,vhdl,D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/Emma_2.vhd,,,registers,,,,,,,,

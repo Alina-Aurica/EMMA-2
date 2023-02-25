@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../Proiect_EMMA_2.srcs/sources_1/new/Registers.vhd"
+vhdl xil_defaultlib  "../../../Proiect_EMMA_2.srcs/sources_1/new/ALU.vhd"
+vhdl xil_defaultlib  "../../../Proiect_EMMA_2.srcs/sources_1/new/MPC.vhd"
+vhdl xil_defaultlib  "../../../Proiect_EMMA_2.srcs/sources_1/new/Microcode_Unit.vhd"
+vhdl xil_defaultlib  "../../../Proiect_EMMA_2.srcs/sources_1/new/Data_memory.vhd"
+vhdl xil_defaultlib  "../../../Proiect_EMMA_2.srcs/sources_1/new/Instruction_memory.vhd"
+vhdl xil_defaultlib  "../../../Proiect_EMMA_2.srcs/sources_1/new/PC.vhd"
+vhdl xil_defaultlib  "../../../Proiect_EMMA_2.srcs/sources_1/new/Emma_2.vhd"
+vhdl xil_defaultlib  "../../../Proiect_EMMA_2.srcs/sim_1/new/Emma_2_tb.vhd"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,18 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/Registers.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Registers
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ALU
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/MPC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MPC
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/Microcode_Unit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Microcode_Unit
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/Data_memory.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Data_memory
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/Instruction_memory.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Instruction_memory
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/PC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity PC
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sources_1/new/Emma_2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Emma_2
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Facultate/ANUL 3/ANUL 3 - Semestrul 1/SSC/Proiect/Proiect_EMMA_2/Proiect_EMMA_2.srcs/sim_1/new/Emma_2_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Emma_2_tb
